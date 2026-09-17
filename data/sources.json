@@ -1,0 +1,19 @@
+{
+  "last_checked": "2026-09-17",
+  "sources": [
+    {
+      "name": "National Scholarship Portal",
+      "url": "https://scholarships.gov.in/All-Scholarships",
+      "type": "official",
+      "coverage": "Government scholarship schemes listed by NSP",
+      "note": "Deadlines and eligibility can change; verify on the official portal before applying."
+    },
+    {
+      "name": "AICTE National Internship Portal",
+      "url": "https://internship.aicte-india.org/",
+      "type": "official",
+      "coverage": "Internship listings published through the AICTE portal",
+      "note": "Live listings can change; verify the current listing before applying."
+    }
+  ]
+}
